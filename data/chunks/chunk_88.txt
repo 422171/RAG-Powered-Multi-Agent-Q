@@ -1,0 +1,3 @@
+3. Payment Flows
+• One-Time Charges: Create a payment intent or legacy charge to authorize and capture in one or two steps.  
+• Multi-step Flows: Use PaymentIntent with confirmation and optional authentication (3D Secure).

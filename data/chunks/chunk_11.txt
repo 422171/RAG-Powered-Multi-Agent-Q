@@ -1,0 +1,3 @@
+6. Identity & Verification
+• Identity Checks: Document scanning, selfie verification, and liveness testing for KYC/AML compliance.
+• Financial Connections: Securely link user bank accounts for payouts and verification without screen scraping.

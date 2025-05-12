@@ -1,0 +1,2 @@
+• Metered and tiered pricing models support usage-based billing: record usage and let Stripe calculate final amounts.  
+• Trials & Schedules: Offer free trials or phased billing changes with subscription schedules.

@@ -1,0 +1,1 @@
+single-step endpoint best suited for simple use cases or existing integrations. New integrations should use Payment Intents for maximum flexibility.

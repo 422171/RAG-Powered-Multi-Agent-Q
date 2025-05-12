@@ -1,0 +1,4 @@
+1. Account Setup & Modes
+• Test vs. Live: Switch in the Dashboard to simulate transactions before going to production.  
+• API Keys: Manage secret and publishable keys under Developers → API Keys.  
+• Webhooks: Configure endpoints under Developers → Webhooks to receive asynchronous events.

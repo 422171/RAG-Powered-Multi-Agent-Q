@@ -1,0 +1,3 @@
+Stripe Products Overview
+
+Stripe provides a modular suite of products that address the full lifecycle of moving money, managing risk, and running an online business. Each product is designed to integrate seamlessly with the others and can be adopted independently as your needs grow.

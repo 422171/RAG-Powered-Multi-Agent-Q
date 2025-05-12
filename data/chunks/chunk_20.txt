@@ -1,0 +1,1 @@
+To start with Stripe, sign up on the Stripe website using a valid email address. After confirming your email, you will be prompted to provide your business details, bank or debit card information, and tax information. Once submitted, Stripe runs verification checks that typically complete within

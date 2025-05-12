@@ -1,0 +1,1 @@
+Webhooks are HTTP callbacks that notify your system of asynchronous events such as successful payments, failed invoices, or subscription updates. By configuring webhook endpoints in the Dashboard, you ensure your application stays in sync with Stripe events in real time. It is important to validate

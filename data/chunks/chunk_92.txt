@@ -1,0 +1,3 @@
+5. Invoicing & Dunning
+• Automatic Invoices: Generated at each billing cycle for subscriptions, with customizable PDF templates and emails.  
+• Manual Invoices: Create, preview, finalize, and send ad hoc invoices for one-time charges.

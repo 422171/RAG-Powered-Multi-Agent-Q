@@ -1,0 +1,1 @@
+Test mode provides a sandbox environment. You can simulate payments using special test card numbers and monitor their behavior in the Dashboard without moving any real money. Live mode conducts real transactions with actual payment cards and funds. Make sure to switch modes in the Dashboard and use

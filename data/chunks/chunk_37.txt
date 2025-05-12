@@ -1,0 +1,1 @@
+Stripe Billing provides product and price management, handling recurring payments, trial periods, proration on plan changes, and automatic invoice generation. You define Products and Prices, then create Subscriptions that attach a customer to one or more Prices. Stripe automatically handles

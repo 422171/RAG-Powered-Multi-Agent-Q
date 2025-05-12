@@ -1,0 +1,1 @@
+events in real time. It is important to validate webhook signatures and respond quickly to maintain reliability.

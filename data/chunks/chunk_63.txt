@@ -1,0 +1,4 @@
+Best Practices
+• Begin in test mode: review simulated outcomes to calibrate rule sensitivity and avoid false declines.  
+• Layer custom rules on top of prebuilt rules for company-specific risk factors.  
+• Use metadata and customer identifiers to build whitelists or VIP exception lists.

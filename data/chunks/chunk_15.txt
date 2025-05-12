@@ -1,0 +1,3 @@
+9. Data & Insights
+• Sigma Analytics: Custom SQL queries on your Stripe ledger for revenue, churn, and customer behavior.
+• Reporting API: Export transaction, balance, and payout data programmatically via REST endpoints.

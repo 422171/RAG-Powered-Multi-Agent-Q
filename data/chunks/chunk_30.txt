@@ -1,0 +1,1 @@
+or monthly fees for the core gateway. Advanced products like Billing, Connect, Radar, and Terminal have their own pricing details which can be found in Stripe’s pricing page.

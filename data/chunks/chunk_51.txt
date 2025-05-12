@@ -1,0 +1,1 @@
+Stripe Radar is an integrated fraud detection and prevention solution built into the Stripe platform. It leverages machine learning models trained on global transaction data, real-time signals from payments, and customizable rules to evaluate risk, block or challenge suspicious transactions, and

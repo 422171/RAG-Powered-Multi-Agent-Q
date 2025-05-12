@@ -1,0 +1,3 @@
+3. Custom Rules Builder
+• Non-technical users define logical expressions combining attributes (amount, location, email domain, metadata) to tailor fraud controls.  
+• Simulate and test rules in test mode before deploying to live traffic.

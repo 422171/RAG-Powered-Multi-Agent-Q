@@ -1,0 +1,44 @@
+Stripe Radar Fraud Prevention
+
+Overview
+Stripe Radar is an integrated fraud detection and prevention solution built into the Stripe platform. It leverages machine learning models trained on global transaction data, real-time signals from payments, and customizable rules to evaluate risk, block or challenge suspicious transactions, and streamline dispute management.
+
+Key Features
+
+1. Risk Scoring
+• Each payment receives a risk_score (0–100) based on global fraud patterns, device fingerprints, IP address analytics, and historical customer data.  
+• Scores inform default actions or can be surfaced to your own fraud dashboards for review.
+
+2. Prebuilt Rules Engine
+• Out-of-the-box rules cover common fraud scenarios such as mismatched card country, high velocity usage, and known bad BIN ranges.  
+• Rules can be toggled on or off directly in the Dashboard without code changes.  
+• Actions include block, allow, or challenge by invoking 3D Secure authentication.
+
+3. Custom Rules Builder
+• Non-technical users define logical expressions combining attributes (amount, location, email domain, metadata) to tailor fraud controls.  
+• Simulate and test rules in test mode before deploying to live traffic.  
+• Manage rule priority and conditions to fine-tune approval rate versus fraud prevention.
+
+4. 3D Secure and Challenge Flows
+• When a transaction triggers a challenge action, Stripe automatically directs eligible cardholders through an SCA-compliant 3D Secure flow.  
+• Integration is seamless with Payment Intents, Elements, or Stripe Checkout—no extra endpoints required.  
+• Customizable challenge step UI and messaging via the Dashboard.
+
+5. Dispute and Case Management
+• Monitor chargebacks and dispute trends in the Radar section of the Dashboard.  
+• Collect evidence, attach metadata, and submit responses directly to card networks.  
+• Enterprise-level case assignment, tagging, and resolution workflow for high-volume merchants.
+
+6. Insights and Reporting
+• Radar Insights dashboard visualizes blocked versus allowed transactions, top risk signals, and dispute ROI metrics.  
+• Export data via the Reporting API or analyze with Sigma using SQL queries on event and outcome datasets.  
+• Track key metrics like false decline rate and net fraud savings over time.
+
+Best Practices
+• Begin in test mode: review simulated outcomes to calibrate rule sensitivity and avoid false declines.  
+• Layer custom rules on top of prebuilt rules for company-specific risk factors.  
+• Use metadata and customer identifiers to build whitelists or VIP exception lists.  
+• Monitor risk_score distribution and adjust thresholds periodically based on seasonal trends.  
+
+Summary
+Stripe Radar combines advanced machine learning, customizable rules, and integrated dispute management to provide a single-pane fraud prevention solution. By default, it blocks fraudulent transactions while minimizing false declines, and it can be tuned and scaled as your business grows.

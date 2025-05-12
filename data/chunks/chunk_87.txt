@@ -1,0 +1,1 @@
+• Invoice & InvoiceItem: Detail line items and totals for subscription renewals or one-off invoices.

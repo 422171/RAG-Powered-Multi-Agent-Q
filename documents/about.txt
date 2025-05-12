@@ -1,0 +1,21 @@
+About Stripe
+
+Stripe is a technology company that builds economic infrastructure for the internet. Founded in 2010 by Patrick and John Collison in San Francisco, Stripe’s mission is to increase the GDP of the internet by making it easy for companies of all sizes to move money and manage online business operations.
+
+Company History and Mission
+Stripe began as a developer-friendly payments API designed to simplify the complexity of accepting credit cards and handling fraud. Over time the product suite expanded to cover recurring billing, marketplace payouts, in-person payments, identity verification, corporate cards, and embedded financial services. Today, Stripe processes hundreds of billions of dollars in transactions annually and supports businesses in more than 45 countries.
+
+Core Values
+• Developer First: Clean, well-documented APIs and SDKs available in multiple languages.  
+• Global by Default: Support for 135+ currencies, local payment methods, and transparent international pricing.  
+• Secure and Compliant: PCI DSS Level 1 certified, ISO 27001, GDPR compliant, built-in fraud prevention and identity checks.  
+• Scalable Infrastructure: Highly available services with 99.99% uptime and sub–50 ms response times on critical endpoints.
+
+Leadership and Team
+Stripe is led by its founding CEOs, Patrick and John Collison, and a team of executives drawn from engineering, finance, design, and operations backgrounds. The company culture emphasizes ownership, continuous learning, and transparency, with engineers owning services end-to-end and regular open discussions of product roadmaps and metrics.
+
+Global Presence
+Stripe maintains offices in San Francisco, Seattle, New York, London, Dublin, Berlin, Paris, Tokyo, Singapore, Sydney, and more. It partners with local banks, acquirers, and regulators to ensure compliant service delivery and fast payouts around the world.
+
+Impact and Ecosystem
+More than one million businesses—from startups to Fortune 500 companies—use Stripe. Beyond direct integrations, Stripe powers payments and billing for platforms like Shopify and Salesforce, and it provides startup incorporation and legal guidance through Stripe Atlas. The company invests in open source, shares learnings in engineering blogs, and supports financial inclusion initiatives globally.

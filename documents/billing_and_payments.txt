@@ -1,0 +1,57 @@
+Stripe Billing & Payments
+
+Overview
+Stripe offers a unified platform for both payment processing and subscription billing. This document covers core concepts, setup steps, object models, key workflows, and best practices—without any code samples.
+
+1. Account Setup & Modes
+• Test vs. Live: Switch in the Dashboard to simulate transactions before going to production.  
+• API Keys: Manage secret and publishable keys under Developers → API Keys.  
+• Webhooks: Configure endpoints under Developers → Webhooks to receive asynchronous events.
+
+2. Core Objects
+• Customer: Represents a paying account; stores payment methods and billing preferences.  
+• PaymentMethod: Tokenized card or local-method details.  
+• Product: A high-level offering (e.g., “Pro Plan”).  
+• Price: Defines how a product is priced—one-time or recurring with intervals or tiers.  
+• Subscription: Binds a customer to one or more prices for recurring billing.  
+• PaymentIntent & Charge: Handle one-time or multi-step payment authorizations and captures.  
+• Invoice & InvoiceItem: Detail line items and totals for subscription renewals or one-off invoices.
+
+3. Payment Flows
+• One-Time Charges: Create a payment intent or legacy charge to authorize and capture in one or two steps.  
+• Multi-step Flows: Use PaymentIntent with confirmation and optional authentication (3D Secure).  
+• Payouts: After successful charges, Stripe automatically credits your bank account on a schedule (2–7 business days by default).
+
+4. Recurring Billing & Subscriptions
+• Create Products and Prices in the Dashboard or via API.  
+• Subscriptions handle trial periods, proration, plan upgrades or downgrades, and automatic renewals.  
+• Metered and tiered pricing models support usage-based billing: record usage and let Stripe calculate final amounts.  
+• Trials & Schedules: Offer free trials or phased billing changes with subscription schedules.
+
+5. Invoicing & Dunning
+• Automatic Invoices: Generated at each billing cycle for subscriptions, with customizable PDF templates and emails.  
+• Manual Invoices: Create, preview, finalize, and send ad hoc invoices for one-time charges.  
+• Dunning Settings: Configure retry rules for failed payments, reminder emails, and automatic cancellations.
+
+6. Taxes & Compliance
+• Tax Rates: Attach fixed or percentage-based tax rates to line items or prices.  
+• Stripe Tax (optional): Automatic calculation and collection of VAT, GST, and sales tax by jurisdiction.  
+• PCI & Data Security: Stripe maintains PCI DSS Level 1 compliance; using Stripe-hosted fields reduces your scope.
+
+7. Webhooks & Events
+• Key Events: payment_intent.succeeded, invoice.payment_failed, customer.subscription.updated, charge.refunded, dispute.created.  
+• Best Practices: Secure with signature verification, respond quickly, and queue heavy work off the webhook thread.
+
+8. Dashboards & Reporting
+• Payments Dashboard: View transaction volumes, fees, payouts, and dispute summaries.  
+• Billing Dashboard: Monitor MRR, ARR, churn, dunning metrics, and subscription health.  
+• Sigma & Reporting: Run custom SQL queries on your Stripe data for detailed analysis.
+
+9. Best Practices
+• Use PaymentIntents for new integrations to support SCA and dynamic authentication.  
+• Always include idempotency keys on non-GET requests to avoid duplicates.  
+• Preview proration and upcoming invoices to inform customers of mid-cycle changes.  
+• Test critical flows—subscriptions, upgrades, and failed-payment handling—in Test mode first.
+
+10. Summary
+Stripe’s integrated Billing & Payments platform streamlines both one-time transactions and subscription-based revenue. With unified dashboards, automated workflows, and configurable rules, you can launch and grow your business without building or maintaining custom billing systems.

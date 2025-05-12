@@ -1,0 +1,4 @@
+9. Best Practices
+• Use PaymentIntents for new integrations to support SCA and dynamic authentication.  
+• Always include idempotency keys on non-GET requests to avoid duplicates.  
+• Preview proration and upcoming invoices to inform customers of mid-cycle changes.

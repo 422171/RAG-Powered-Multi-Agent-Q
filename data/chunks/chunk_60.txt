@@ -1,0 +1,4 @@
+5. Dispute and Case Management
+• Monitor chargebacks and dispute trends in the Radar section of the Dashboard.  
+• Collect evidence, attach metadata, and submit responses directly to card networks.  
+• Enterprise-level case assignment, tagging, and resolution workflow for high-volume merchants.

@@ -1,0 +1,1 @@
+2. What is the difference between Test mode and Live mode?

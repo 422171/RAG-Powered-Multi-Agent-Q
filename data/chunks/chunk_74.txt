@@ -1,0 +1,3 @@
+Core Values
+• Developer First: Clean, well-documented APIs and SDKs available in multiple languages.  
+• Global by Default: Support for 135+ currencies, local payment methods, and transparent international pricing.

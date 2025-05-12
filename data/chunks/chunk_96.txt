@@ -1,0 +1,3 @@
+7. Webhooks & Events
+• Key Events: payment_intent.succeeded, invoice.payment_failed, customer.subscription.updated, charge.refunded, dispute.created.  
+• Best Practices: Secure with signature verification, respond quickly, and queue heavy work off the webhook thread.

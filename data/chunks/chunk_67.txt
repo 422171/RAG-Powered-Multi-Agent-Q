@@ -1,0 +1,1 @@
+This is a sample document for testing the RAG-powered assistant. It contains information about the assistant's capabilities and features.

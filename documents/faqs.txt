@@ -1,0 +1,31 @@
+Stripe FAQ
+
+1. How do I create and verify my account?
+To start with Stripe, sign up on the Stripe website using a valid email address. After confirming your email, you will be prompted to provide your business details, bank or debit card information, and tax information. Once submitted, Stripe runs verification checks that typically complete within minutes, unlocking both Test and Live modes in your Dashboard.
+
+2. What is the difference between Test mode and Live mode?
+Test mode provides a sandbox environment. You can simulate payments using special test card numbers and monitor their behavior in the Dashboard without moving any real money. Live mode conducts real transactions with actual payment cards and funds. Make sure to switch modes in the Dashboard and use the corresponding API keys for your environment.
+
+3. Which payment methods and currencies are supported?
+Stripe accepts payments via major card networks (Visa, MasterCard, American Express, Discover, JCB, Diners Club) and digital wallets like Apple Pay and Google Pay. It also supports local payment methods such as SEPA Direct Debit, iDEAL, Alipay, WeChat Pay, ACH Direct Debit, UPI, and more. Stripe currently supports over 135 currencies, automatically handling currency conversion where available.
+
+4. How are fees structured?
+Stripe uses a pay-as-you-go pricing model. In the United States, the standard rate is 2.9% plus 30¢ per successful card charge. International cards incur an additional percentage fee, and currency conversions add another small fee. There are no setup or monthly fees for the core gateway. Advanced products like Billing, Connect, Radar, and Terminal have their own pricing details which can be found in Stripe’s pricing page.
+
+5. How long do payouts take to arrive in my bank account?
+Payout timing varies by country and payment method. In most regions, standard payouts take between two and seven business days. You can enable Instant Payouts to send funds to your eligible debit card within minutes, subject to an additional fee per payout.
+
+6. What is the difference between Charges API and Payment Intents?
+Payment Intents is Stripe’s modern, recommended approach for handling dynamic authentication flows required by regulations such as PSD2 and SCA. It supports multi-step payments, including automatic handling of 3D Secure. The Charges API is a legacy single-step endpoint best suited for simple use cases or existing integrations. New integrations should use Payment Intents for maximum flexibility.
+
+7. How do subscriptions and recurring billing work?
+Stripe Billing provides product and price management, handling recurring payments, trial periods, proration on plan changes, and automatic invoice generation. You define Products and Prices, then create Subscriptions that attach a customer to one or more Prices. Stripe automatically handles renewals, sends invoices, applies taxes, and retries failed payments according to configurable rules.
+
+8. What are webhooks and how do I use them?
+Webhooks are HTTP callbacks that notify your system of asynchronous events such as successful payments, failed invoices, or subscription updates. By configuring webhook endpoints in the Dashboard, you ensure your application stays in sync with Stripe events in real time. It is important to validate webhook signatures and respond quickly to maintain reliability.
+
+9. How can I prevent fraud and disputes?
+Stripe Radar uses machine learning and global network signals to score each payment for fraud risk. You can enable predefined rules, build custom rules, challenge payments via 3D Secure, and review cases manually. Radar also integrates dispute management tools that help you gather evidence and respond effectively.
+
+10. Where can I find documentation and support?
+The comprehensive Stripe documentation covers every product with guides, references, and tutorials. You can also explore sample code repositories, community forums, and direct support options via the Dashboard. Whether you are integrating a simple checkout or building a complex marketplace, Stripe provides resources to guide you through each step.

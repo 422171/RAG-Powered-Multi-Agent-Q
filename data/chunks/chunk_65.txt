@@ -1,0 +1,2 @@
+Summary
+Stripe Radar combines advanced machine learning, customizable rules, and integrated dispute management to provide a single-pane fraud prevention solution. By default, it blocks fraudulent transactions while minimizing false declines, and it can be tuned and scaled as your business grows.

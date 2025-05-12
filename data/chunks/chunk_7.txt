@@ -1,0 +1,3 @@
+4. Radar Fraud Prevention
+• ML Engine & Risk Scoring: Evaluate each payment against global fraud signals with a score.
+• Rules Engine: Preset and custom rules to block, challenge, or allow payments.

@@ -1,0 +1,1 @@
+Payment Intents is Stripe’s modern, recommended approach for handling dynamic authentication flows required by regulations such as PSD2 and SCA. It supports multi-step payments, including automatic handling of 3D Secure. The Charges API is a legacy single-step endpoint best suited for simple use

@@ -1,0 +1,4 @@
+8. Dashboards & Reporting
+• Payments Dashboard: View transaction volumes, fees, payouts, and dispute summaries.  
+• Billing Dashboard: Monitor MRR, ARR, churn, dunning metrics, and subscription health.  
+• Sigma & Reporting: Run custom SQL queries on your Stripe data for detailed analysis.

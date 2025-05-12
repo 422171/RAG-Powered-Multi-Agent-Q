@@ -1,0 +1,1 @@
+Pay, ACH Direct Debit, UPI, and more. Stripe currently supports over 135 currencies, automatically handling currency conversion where available.

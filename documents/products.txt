@@ -1,0 +1,50 @@
+Stripe Products Overview
+
+Stripe provides a modular suite of products that address the full lifecycle of moving money, managing risk, and running an online business. Each product is designed to integrate seamlessly with the others and can be adopted independently as your needs grow.
+
+1. Payments Platform
+• Payment Intents & Charges: Flexible APIs for one-time and multi-step card and local-method payments.
+• Tokenization: PCI-compliant, client-side token creation via Stripe.js, Checkout, or mobile SDKs.
+• Webhooks: Real time notifications for successful payments, refunds, disputes, and more.
+
+2. Billing & Subscriptions
+• Products & Prices: Define offerings and how they’re billed (one-time, recurring, metered, tiered).
+• Subscriptions: Automated renewals, proration, trials, and phased plans via subscription schedules.
+• Invoicing & Dunning: Hosted invoices, PDF templates, email reminders, and retry rules for failed payments.
+
+3. Connect & Payouts
+• Marketplace Flows: Route funds between buyers, sellers, and platforms with automatic KYC.
+• Custom & Express Accounts: Control the payer experience and branding or offload compliance to Stripe.
+• Instant & Scheduled Payouts: Send funds on a regular cadence or in real time to bank accounts or debit cards.
+
+4. Radar Fraud Prevention
+• ML Engine & Risk Scoring: Evaluate each payment against global fraud signals with a score.
+• Rules Engine: Preset and custom rules to block, challenge, or allow payments.
+• Dispute Tools: Case management, evidence collection, and automated routing to maximize recoveries.
+
+5. Issuing & Corporate Cards
+• Virtual & Physical Cards: Programmatically create, control, and distribute cards for employees or vendors.
+• Spend Controls: Set limits by amount, merchant category, or geography; enforce real-time authorizations.
+• Transaction Data: Metadata, labels, and detailed reporting for reconciliation and expense management.
+
+6. Identity & Verification
+• Identity Checks: Document scanning, selfie verification, and liveness testing for KYC/AML compliance.
+• Financial Connections: Securely link user bank accounts for payouts and verification without screen scraping.
+
+7. Terminal & In-Person Payments
+• Pre-certified Card Readers: End-to-end encrypted hardware with plug-and-play setup.
+• Unified Terminal SDK: iOS, Android, and JavaScript libraries for in-person checkout experiences.
+• Sync with Online: Consolidated reporting across online and in-person transactions.
+
+8. Treasury & Financial Services
+• Banking-as-a-Service: Create FDIC-insured bank accounts, program bill pay, and earn yield on balances.
+• Real-Time Funds Movement: ACH, wire transfers, and instant settlement between internal balances.
+
+9. Data & Insights
+• Sigma Analytics: Custom SQL queries on your Stripe ledger for revenue, churn, and customer behavior.
+• Reporting API: Export transaction, balance, and payout data programmatically via REST endpoints.
+
+10. Ecosystem & Extensions
+• Stripe CLI & Dashboard: Command–line interface and web console for account and integration management.
+• Prebuilt Integrations: Plugins for major e-commerce, CRM, and subscription platforms.
+• Open Source Samples: Reference apps and code libraries for common use cases across languages.

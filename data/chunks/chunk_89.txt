@@ -1,0 +1,1 @@
+• Payouts: After successful charges, Stripe automatically credits your bank account on a schedule (2–7 business days by default).

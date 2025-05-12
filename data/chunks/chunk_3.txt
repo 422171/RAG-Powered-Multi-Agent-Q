@@ -1,0 +1,3 @@
+2. Billing & Subscriptions
+• Products & Prices: Define offerings and how they’re billed (one-time, recurring, metered, tiered).
+• Subscriptions: Automated renewals, proration, trials, and phased plans via subscription schedules.

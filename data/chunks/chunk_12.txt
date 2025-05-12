@@ -1,0 +1,3 @@
+7. Terminal & In-Person Payments
+• Pre-certified Card Readers: End-to-end encrypted hardware with plug-and-play setup.
+• Unified Terminal SDK: iOS, Android, and JavaScript libraries for in-person checkout experiences.

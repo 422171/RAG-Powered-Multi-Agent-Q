@@ -1,0 +1,4 @@
+Stripe Billing & Payments
+
+Overview
+Stripe offers a unified platform for both payment processing and subscription billing. This document covers core concepts, setup steps, object models, key workflows, and best practices—without any code samples.

@@ -1,0 +1,1 @@
+6. What is the difference between Charges API and Payment Intents?

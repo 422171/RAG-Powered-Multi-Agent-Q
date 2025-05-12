@@ -1,0 +1,3 @@
+6. Taxes & Compliance
+• Tax Rates: Attach fixed or percentage-based tax rates to line items or prices.  
+• Stripe Tax (optional): Automatic calculation and collection of VAT, GST, and sales tax by jurisdiction.

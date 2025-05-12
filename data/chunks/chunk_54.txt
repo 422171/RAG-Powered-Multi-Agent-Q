@@ -1,0 +1,3 @@
+2. Prebuilt Rules Engine
+• Out-of-the-box rules cover common fraud scenarios such as mismatched card country, high velocity usage, and known bad BIN ranges.  
+• Rules can be toggled on or off directly in the Dashboard without code changes.

@@ -1,0 +1,1 @@
+• Webhooks: Real time notifications for successful payments, refunds, disputes, and more.

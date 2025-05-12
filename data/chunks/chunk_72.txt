@@ -1,0 +1,1 @@
+Stripe began as a developer-friendly payments API designed to simplify the complexity of accepting credit cards and handling fraud. Over time the product suite expanded to cover recurring billing, marketplace payouts, in-person payments, identity verification, corporate cards, and embedded

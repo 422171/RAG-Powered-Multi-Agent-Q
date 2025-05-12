@@ -1,0 +1,5 @@
+Key Features
+
+1. Risk Scoring
+• Each payment receives a risk_score (0–100) based on global fraud patterns, device fingerprints, IP address analytics, and historical customer data.  
+• Scores inform default actions or can be surfaced to your own fraud dashboards for review.

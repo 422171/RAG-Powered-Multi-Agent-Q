@@ -1,0 +1,4 @@
+2. Core Objects
+• Customer: Represents a paying account; stores payment methods and billing preferences.  
+• PaymentMethod: Tokenized card or local-method details.  
+• Product: A high-level offering (e.g., “Pro Plan”).

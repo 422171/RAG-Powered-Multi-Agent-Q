@@ -1,0 +1,3 @@
+4. Recurring Billing & Subscriptions
+• Create Products and Prices in the Dashboard or via API.  
+• Subscriptions handle trial periods, proration, plan upgrades or downgrades, and automatic renewals.

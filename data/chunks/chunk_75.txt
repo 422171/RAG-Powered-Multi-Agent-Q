@@ -1,0 +1,2 @@
+• Secure and Compliant: PCI DSS Level 1 certified, ISO 27001, GDPR compliant, built-in fraud prevention and identity checks.  
+• Scalable Infrastructure: Highly available services with 99.99% uptime and sub–50 ms response times on critical endpoints.

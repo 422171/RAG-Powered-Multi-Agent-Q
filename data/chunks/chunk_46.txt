@@ -1,0 +1,1 @@
+The comprehensive Stripe documentation covers every product with guides, references, and tutorials. You can also explore sample code repositories, community forums, and direct support options via the Dashboard. Whether you are integrating a simple checkout or building a complex marketplace, Stripe

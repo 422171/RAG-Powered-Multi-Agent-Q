@@ -1,0 +1,1 @@
+Stripe uses a pay-as-you-go pricing model. In the United States, the standard rate is 2.9% plus 30¢ per successful card charge. International cards incur an additional percentage fee, and currency conversions add another small fee. There are no setup or monthly fees for the core gateway. Advanced

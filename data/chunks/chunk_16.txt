@@ -1,0 +1,3 @@
+10. Ecosystem & Extensions
+• Stripe CLI & Dashboard: Command–line interface and web console for account and integration management.
+• Prebuilt Integrations: Plugins for major e-commerce, CRM, and subscription platforms.

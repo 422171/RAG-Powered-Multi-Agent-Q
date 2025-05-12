@@ -1,0 +1,3 @@
+6. Insights and Reporting
+• Radar Insights dashboard visualizes blocked versus allowed transactions, top risk signals, and dispute ROI metrics.  
+• Export data via the Reporting API or analyze with Sigma using SQL queries on event and outcome datasets.

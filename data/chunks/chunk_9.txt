@@ -1,0 +1,3 @@
+5. Issuing & Corporate Cards
+• Virtual & Physical Cards: Programmatically create, control, and distribute cards for employees or vendors.
+• Spend Controls: Set limits by amount, merchant category, or geography; enforce real-time authorizations.

@@ -1,0 +1,3 @@
+3. Connect & Payouts
+• Marketplace Flows: Route funds between buyers, sellers, and platforms with automatic KYC.
+• Custom & Express Accounts: Control the payer experience and branding or offload compliance to Stripe.

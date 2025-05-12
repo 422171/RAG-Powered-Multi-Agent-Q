@@ -1,0 +1,1 @@
+• Test critical flows—subscriptions, upgrades, and failed-payment handling—in Test mode first.

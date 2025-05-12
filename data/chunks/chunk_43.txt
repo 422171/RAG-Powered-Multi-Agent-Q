@@ -1,0 +1,1 @@
+Stripe Radar uses machine learning and global network signals to score each payment for fraud risk. You can enable predefined rules, build custom rules, challenge payments via 3D Secure, and review cases manually. Radar also integrates dispute management tools that help you gather evidence and

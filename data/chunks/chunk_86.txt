@@ -1,0 +1,3 @@
+• Price: Defines how a product is priced—one-time or recurring with intervals or tiers.  
+• Subscription: Binds a customer to one or more prices for recurring billing.  
+• PaymentIntent & Charge: Handle one-time or multi-step payment authorizations and captures.

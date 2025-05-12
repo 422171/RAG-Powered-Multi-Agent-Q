@@ -1,0 +1,1 @@
+one or more Prices. Stripe automatically handles renewals, sends invoices, applies taxes, and retries failed payments according to configurable rules.

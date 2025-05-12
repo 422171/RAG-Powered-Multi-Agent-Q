@@ -1,0 +1,1 @@
+Stripe accepts payments via major card networks (Visa, MasterCard, American Express, Discover, JCB, Diners Club) and digital wallets like Apple Pay and Google Pay. It also supports local payment methods such as SEPA Direct Debit, iDEAL, Alipay, WeChat Pay, ACH Direct Debit, UPI, and more. Stripe

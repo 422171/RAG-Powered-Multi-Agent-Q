@@ -1,0 +1,1 @@
+checks that typically complete within minutes, unlocking both Test and Live modes in your Dashboard.

@@ -1,0 +1,1 @@
+• PCI & Data Security: Stripe maintains PCI DSS Level 1 compliance; using Stripe-hosted fields reduces your scope.
